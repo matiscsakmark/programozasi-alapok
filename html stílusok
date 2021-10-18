@@ -1,0 +1,4 @@
+<p> normál fekete betűs sor </p>
+<p style="color:red;"> ez egy piros betűs sor! </p>
+<p style="color:blue;"> ez már kék színű </p>
+<p style="font-size:50px;"> nagyobb betűméretű sor </p>
